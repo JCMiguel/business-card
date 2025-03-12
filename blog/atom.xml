@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jcmiguel.github.io/business-card/blog"/>
     <subtitle>Juan Cristian Miguel Blog</subtitle>
-    <icon>https://jcmiguel.github.io/business-card/img/picrew.ico</icon>
+    <icon>https://jcmiguel.github.io/business-card/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Presentado mi tarjeta de presentación]]></title>
         <id>https://jcmiguel.github.io/business-card/blog/first-blog-post</id>
