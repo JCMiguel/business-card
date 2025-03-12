@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Tarjeta de presentación Blog</title>
-        <link>https://jcmiguel.github.io/business-card-deploy/blog</link>
-        <description>Tarjeta de presentación Blog</description>
+        <title>Juan Cristian Miguel Blog</title>
+        <link>https://jcmiguel.github.io/business-card/blog</link>
+        <description>Juan Cristian Miguel Blog</description>
         <lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es-ar</language>
         <item>
             <title><![CDATA[Presentado mi tarjeta de presentación]]></title>
-            <link>https://jcmiguel.github.io/business-card-deploy/blog/first-blog-post</link>
-            <guid>https://jcmiguel.github.io/business-card-deploy/blog/first-blog-post</guid>
+            <link>https://jcmiguel.github.io/business-card/blog/first-blog-post</link>
+            <guid>https://jcmiguel.github.io/business-card/blog/first-blog-post</guid>
             <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Creé la publicación de mi tarjeta de presentación para difundir de forma diferente mis actividades.]]></description>
             <content:encoded><![CDATA[<p>Creé la publicación de mi tarjeta de presentación para difundir de forma diferente mis actividades.</p>]]></content:encoded>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jcmiguel.github.io/business-card-deploy/blog</id>
-    <title>Tarjeta de presentación Blog</title>
+    <id>https://jcmiguel.github.io/business-card/blog</id>
+    <title>Juan Cristian Miguel Blog</title>
     <updated>2025-03-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jcmiguel.github.io/business-card-deploy/blog"/>
-    <subtitle>Tarjeta de presentación Blog</subtitle>
-    <icon>https://jcmiguel.github.io/business-card-deploy/img/favicon.ico</icon>
+    <link rel="alternate" href="https://jcmiguel.github.io/business-card/blog"/>
+    <subtitle>Juan Cristian Miguel Blog</subtitle>
+    <icon>https://jcmiguel.github.io/business-card/img/picrew.ico</icon>
     <entry>
         <title type="html"><![CDATA[Presentado mi tarjeta de presentación]]></title>
-        <id>https://jcmiguel.github.io/business-card-deploy/blog/first-blog-post</id>
-        <link href="https://jcmiguel.github.io/business-card-deploy/blog/first-blog-post"/>
+        <id>https://jcmiguel.github.io/business-card/blog/first-blog-post</id>
+        <link href="https://jcmiguel.github.io/business-card/blog/first-blog-post"/>
         <updated>2025-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Creé la publicación de mi tarjeta de presentación para difundir de forma diferente mis actividades.]]></summary>
         <content type="html"><![CDATA[<p>Creé la publicación de mi tarjeta de presentación para difundir de forma diferente mis actividades.</p>]]></content>

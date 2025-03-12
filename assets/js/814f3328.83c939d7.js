@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_example=self.webpackChunkdocusaurus_example||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Presentado mi tarjeta de presentaci\xf3n","permalink":"/business-card/blog/first-blog-post","unlisted":false,"date":"2025-03-06T00:00:00.000Z"}]}')}}]);
