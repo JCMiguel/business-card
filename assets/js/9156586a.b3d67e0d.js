@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_example=self.webpackChunkdocusaurus_example||[]).push([[184],{880:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/business-card/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
